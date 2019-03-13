@@ -1,7 +1,3 @@
-## Group Information
-Group Member: Yingqiao Zheng, Haoran Li, Fang Wang, Leyi Cai
-Group No. 25
-
 ## Details and function of all code files
 Can check every file's top comment.
 
@@ -20,6 +16,3 @@ Execute way is the same as the description of the project.
 	./CSE6140_Project -alg -cut_off -seed
 
 ```
-
-## Where is output file
-Output file is in /build/OUTPUT.
